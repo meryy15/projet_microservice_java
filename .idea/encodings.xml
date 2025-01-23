@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/étude de cas 1/config.server/config.server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/étude de cas 1/microservice-commandes/microservice-commandes/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/étude de cas 1/microservice-commandes/microservice-commandes/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/étude de cas 2/apigateway/apigateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/étude de cas 2/commande (2)/commande-2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/étude de cas 2/eurekaserver (1)/eurekaserver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/étude de cas 2/produit (2)/produit-2/src/main/java" charset="UTF-8" />
+  </component>
+</project>
